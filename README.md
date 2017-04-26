@@ -1,1 +1,0 @@
-# gallup_importer
